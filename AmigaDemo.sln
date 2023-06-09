@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmigaDemo", "AmigaDemo.csproj", "{84702012-96BD-4F84-94C3-9CCCCB781B26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FNA.Core", "D:\Repos\FNA\FNA.Core.csproj", "{8FE12967-4E1A-4949-A3F4-58330EE1641E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84702012-96BD-4F84-94C3-9CCCCB781B26}.Debug|x64.ActiveCfg = Debug|x64
+		{84702012-96BD-4F84-94C3-9CCCCB781B26}.Debug|x64.Build.0 = Debug|x64
+		{84702012-96BD-4F84-94C3-9CCCCB781B26}.Release|x64.ActiveCfg = Release|x64
+		{84702012-96BD-4F84-94C3-9CCCCB781B26}.Release|x64.Build.0 = Release|x64
+		{8FE12967-4E1A-4949-A3F4-58330EE1641E}.Debug|x64.ActiveCfg = Debug|x64
+		{8FE12967-4E1A-4949-A3F4-58330EE1641E}.Debug|x64.Build.0 = Debug|x64
+		{8FE12967-4E1A-4949-A3F4-58330EE1641E}.Release|x64.ActiveCfg = Release|x64
+		{8FE12967-4E1A-4949-A3F4-58330EE1641E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2190CBCE-14EA-47FD-9A1B-62DCF3FCF7CA}
+	EndGlobalSection
+EndGlobal
